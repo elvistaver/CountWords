@@ -1,3 +1,12 @@
+# Word Counter
+
+### Requirement:
+Build a function that counts how many words exist in a sentence.
+
+### Rules:
+words are separated by spaces
+multiple spaces may exist
+empty input should return 0
 ## Data Flow
  // raw text--> validated--> splited to unit of words-->set counter--> iterated through data--> count valid words(aggregated)-->print integer count
 

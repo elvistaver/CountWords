@@ -13,9 +13,9 @@ func CountWords(text string)int{
 	input:=strings.Split(text, " ")
 
 	count:=0
-	for _, words:= range input{
+	for _, word:= range input{
 
-		if words != ""{
+		if word != ""{
 			count++
 		}
 	}

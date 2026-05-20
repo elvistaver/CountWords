@@ -14,7 +14,7 @@ empty input should return 0
  - set counter--> 
  - iterated through data--> 
  - count valid words(aggregated)-->
- - print integer count
+ - return integer data
 
 ## Control Flow
 - recieve text-->
@@ -22,7 +22,7 @@ empty input should return 0
 - split string to get unit of words-->
 - terate to check for valid words--> 
 - aggregate to count the valid words-->
-- print output(the integer count)
+- return (the integer count)
 
 ## Logic Pattern
 - the if condition check is to verify if text is empty, 
